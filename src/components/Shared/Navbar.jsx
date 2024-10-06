@@ -10,11 +10,11 @@ const Navbar = () => {
         },
         {
             title: "Add Item",
-            path: "/add-item"
+            path: "/addItem"
         },
         {
             title: "All Items",
-            path: "/all-items"
+            path: "/"
         }
     ]
     return (
